@@ -16,3 +16,5 @@ Two-piece suits are processed by a dry cleaner as follows. Suits arrive with geo
 - What would happen if the arrival rate were to double ?
 - In this case, if you could place another person anywhere in the system to help out with one of the 5 tasks, where should it be ?
 
+## Codes :
+
